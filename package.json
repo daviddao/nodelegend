@@ -1,0 +1,25 @@
+{
+  "name": "nodelegend",
+  "version": "0.0.1",
+  "description": "Creates dat.gui legend to change ngraph.pixel nodes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daviddao/nodelegend.git"
+  },
+  "keywords": [
+    "ngraph",
+    "ngraph.pixel",
+    "node",
+    "legend"
+  ],
+  "author": "David Dao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviddao/nodelegend/issues"
+  },
+  "homepage": "https://github.com/daviddao/nodelegend"
+}
